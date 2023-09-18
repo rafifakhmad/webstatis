@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teknik Dasar Bermain Bulutangkis</title>
+    <link rel="stylesheet" href="styles.css"> 
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.css">
+
+
+
+    <style>
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    background: linear-gradient(90deg, #cdcd17, #bdcf9b); 
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1);
+    font-family: 'Montserrat', sans-serif; 
+}
+
+
+main {
+    padding: 20px;
+    background-color: rgba(115, 108, 9, 0.9);
+    margin: 20px;
+    border-radius: 5px;
+}
+.profile img{
+    max-width: 120px; 
+    border-radius: 50%; 
+    margin-bottom: 20px; 
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.95);
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+/* Gaya section membulat */
+.rounded-section {
+    border-radius: 20px; 
+    background-color: rgba(255, 255, 255, 0.95); 
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+h2 {
+    color: #9a9d0d;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #000000;
+    font-size: 17px;
+}
+
+
+
+footer {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    text-align: center;
+    padding: 50px;
+    box-shadow: 0px -3px 6px rgba(0, 0, 0, 0.1);
+}
+footer p {
+    color: #fff;
+}
+.social-links {
+    margin-top: 20px;
+}
+
+.social-links a {
+    margin-right: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    
+}
+
+.social-links a:hover {
+    color: #b4c916; 
+    transform: scale(1.2); 
+}
+
+
+/* Responsif */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    
+
+    nav ul {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+}
+
+ </style>
+</head>
+<body>
+    <header>
+        <div class="profile">
+            <img src="img/IMG_20230310_174717_671.jpg" alt="Rafif Akhmad Harinda">
+        </div>
+        <div class="profile">
+            <h1>Teknik Dasar Bulutangkis</h1>
+            <h6>by: rafifakhmaddd</h6>
+            
+        </div>
+        
+        <div class="social-links">
+            <a href="https://www.youtube.com/channel/UCJgkh4Jyx0gqjc3wYvkKudg" target="_blank"><i data-feather="youtube"></i></a>
+            <a href="https://www.tiktok.com/@rffakhmd" target="_blank"><i data-feather="twitter"></i></a>
+            <a href="https://www.instagram.com/rafifakhmaddd" target="_blank"><i data-feather="instagram"></i></a>
+        </div>
+    </header>
+
+    <main>
+        
+        <section class="rounded-section" id="pegangan-raket">
+            <h2>Pegangan Raket</h2>
+            <p>Pegangan raket adalah salah satu aspek penting dalam bermain bulutangkis. Terdapat beberapa jenis pegangan raket yang digunakan dalam bulutangkis, seperti pegangan forehand dan pegangan backhand. Pegangan yang tepat akan mempengaruhi cara melakukan pukulan dan kontrol atas shuttlecock.</p>
+            <p>Pada pegangan forehand, posisi tangan saat memegang raket persis seperti saat kita bersalaman, sementara pada pegangan backhand, jari jempol digunakan sebagai tumpuan dalam memegang raket. Setiap pegangan memiliki fungsi tersendiri sesuai dengan kondisi saat bermain di lapangan.</p>
+        </section>
+        
+
+        <section class="rounded-section" id="pukulan dasar">
+            <h2>Pukulan Dasar</h2>
+            <p>Pukulan dasar adalah teknik dasar dalam bermain bulutangkis yang harus dikuasai oleh setiap pemain. Pukulan dasar melibatkan beberapa jenis pukulan seperti forehand, backhand, smash, lop dan drop shot. Pukulan-pukulan ini memungkinkan Anda untuk mengontrol permainan dan mengembangkan strategi saat berada di lapangan.</p>
+            <p>Forehand adalah pukulan yang dilakukan dengan menggunakan sisi raket yang menghadap depan, sedangkan backhand menggunakan sisi raket yang menghadap belakang. Smash adalah pukulan kuat yang digunakan untuk mengakhiri permainan, sementara drop shot adalah pukulan halus yang digunakan untuk mengecoh lawan.</p>
+        </section>
+        
+
+        <section class="rounded-section" id="gerakan kaki">
+            <h2>Gerakan Kaki</h2>
+            <p>Gerakan kaki yang tepat adalah kunci dalam bermain bulutangkis. Pemain harus memiliki kelincahan, kecepatan, dan koordinasi yang baik untuk dapat bergerak dengan lancar di lapangan. Gerakan kaki mencakup langkah-langkah seperti lari, loncat, dan berganti arah dengan cepat.</p>
+            <p>Selain itu, pemain juga perlu memahami posisi yang tepat di lapangan, seperti posisi serang, posisi bertahan, dan posisi untuk menerima servis. Gerakan kaki yang baik akan membantu pemain untuk mendapatkan posisi yang strategis dan mengambil pukulan dengan efektif.</p>
+        </section>
+        
+
+        <section class="rounded-section" id="servis">
+            <h2>Servis</h2>
+            <p>Servis adalah tindakan memulai permainan dalam bulutangkis. Servis yang baik membutuhkan kontrol dan ketelitian. Ada dua jenis servis utama dalam bulutangkis: servis pendek dan servis panjang.</p>
+            <p>Servis pendek dilakukan dengan memukul shuttlecock dengan pelan. Servis panjang dilakukan dengan memukul shuttlecock ke arah belakang garis lapangan. Kedua jenis servis memiliki aturan dan teknik yang berbeda, dan pemain harus menguasai keduanya.</p>
+        </section>
+        
+    </main>
+
+    <footer>
+        <div class="profile">
+        <h4>Thanks!</h4>
+    </div>
+        
+        <p>&copy; 2023 UIN Syarif Hidayatullah</p>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+    <script>
+      feather.replace();
+    </script>
+    
+</body>
+</html>
