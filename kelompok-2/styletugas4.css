@@ -1,0 +1,58 @@
+/* Mengatur latar belakang dan warna teks untuk elemen <body> */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #082047; /* Warna latar belakang */
+    color: #dde8eb; /* Warna teks */
+    margin: 0; /* Menghapus margin default */
+    padding: 0; /* Menghapus padding default */
+    background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--BuPz-p40--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nphrgz8yfnjylrwfr0yl.png);
+    
+}
+
+/* Mengatur tampilan header <h1> */
+h1 {
+    font-size: 36px; /* Ukuran font */
+    color: #ea122d; /* Warna teks */
+    text-align: center; /* Pusatkan teks */
+    margin-top: 20px; /* Ruang atas */
+    background-color: #fff7f7;
+   margin-left: 150px;
+   margin-right: 150px;
+}
+
+/* Mengatur tampilan gambar logo */
+.images-logo img {
+    max-width: 100%; /* Gambar tidak melebihi lebar parent */
+    display: block; /* Agar gambar tidak memiliki spasi bawah */
+    margin: 0 auto; /* Pusatkan gambar horizontal */
+    border: 3px solid #db0707; /* Border dengan warna biru */
+    border-radius: 10px; /* Lingkaran sudut border */
+}
+.bwf-poster {
+    max-width: 51%; /* Gambar tidak melebihi lebar parent */
+    display: block; /* Agar gambar tidak memiliki spasi bawah */
+    margin: 0 auto; /* Pusatkan gambar horizontal */
+    border: 3px solid #db0707; /* Border dengan warna biru */
+    border-radius: 10px; /* Lingkaran sudut border */
+}
+
+/* Mengatur tampilan subjudul <h2> */
+h2 {
+    font-size: 24px; /* Ukuran font */
+    color: #dde8eb; /* Warna teks */
+    margin: 20px 0; /* Ruang atas dan bawah */
+    text-align: center;
+}
+
+/* Mengatur tampilan teks paragraf */
+
+ p {
+        font-size: 20px;
+        text-align: justify;
+        line-height: 30px;
+        padding: 20px;
+        width: 900px;
+        margin: 30px auto;
+        font-family: 'Gabarito', cursive;
+}
+

@@ -1,0 +1,32 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BWF</title>
+    <link rel="stylesheet" href="styletugas4.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gabarito:wght@400;700&family=Poppins:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+<h1>Badminton World Federation</h1>
+<div class="images-logo"><img src="https://assets.bharian.com.my/images/articles/bwf_1579515829.jpg" alt=""></div>
+<br>
+<br>
+<br>
+<h2>Sekilas Tentang BWF</h2>
+<p>Federasi Bulu Tangkis Dunia (bahasa Inggris: The Badminton World Federation, disingkat BWF) adalah organisasi internasional untuk olahraga bulu tangkis. Organisasi ini didirikan pada tahun 1934 sebagai Federasi Bulu Tangkis Internasional (International Badminton Federation) dengan 9 anggota meliputi Kanada, Denmark, Inggris, Prancis, Irlandia, Belanda, Selandia Baru, Skotlandia, dan Wales. Kini, anggotanya bertambah hingga 165 asosiasi bulu tangkis negara dari berbagai belahan dunia. Pertemuan Umum Luarbiasa yang digelar di Madrid pada 24 September 2006 menetapkan nama baru yang digunakan hingga sekarang, Badminton World Federation (BWF).
+Kantor pusatnya berada di Cheltenham, Inggris Raya sejak organisasi ini didirikan. Namun pada 1 Oktober 2005, kantor pusatnya dipindahkan ke Kuala Lumpur, Malaysia. Presidennya sekarang adalah Poul-Erik Høyer Larsen.</p>
+<div class="bwf-poster"><img src="https://garuda.industry.co.id/uploads/berita/detail/33904.jpg" alt=""></div>
+<br>
+<br>
+<h2>Sejarah Berdirinya BWF</h2>
+<p>BWF berdiri pada 5 Juli 1934 di London, dikutip dari situs resmi BWF. Nama yang pertama kali digunakan untuk organisasi bulu tangkis dunia adalah International Badminton Federation (IBF). Organisasi ini diinisiasi oleh 9 negara, yaitu Denmark, Inggris, Kanada, Prancis, Irlandia, Belanda, Skotlandia, Selandia Baru, dan Wales.
+
+    IBF sempat mengalami masalah dengan beberapa negara anggota yang dipicu oleh konflik sosial politik pada tahun 1970-an. Akibat hal tersebut, pada tahun 1978 dibentuklah sebuah organisasi baru yang menaungi olahraga bulu tangkis dunia. Organisasi ini diberi nama Badminton World Federation (BWF). BWF didirikan oleh 22 negara yang mayoritas berasal dari benua Asia dan Afrika, berbeda dengan organisasi bulu tangkis sebelumnya yang sebagian besar pendirinya adalah negara dari benua Eropa.
+    
+    Kemudian IBF dan BWF bersatu pada tahun 1981 dan secara resmi menggunakan nama Badminton World Federation (BWF). Hal tersebut ditetapkan dalam Pertemuan Luar Biasa BWF pada 24 September 2006 yang diselenggarakan di Madrid, Spanyol. Penetapan BWF sebagai nama baru dilakukan melalui pemilihan suara dan dengan pertimbangan bahwa singkatan IBF kerap disalahartikan dengan organisasi lain, yaitu International Boxing Federation.
+    
+    Pergantian nama ini diharapkan bisa membawa perubahan yang baik bagi olahraga bulu tangkis dunia. Dilansir situs resmi BWF, saat ini organisasi tersebut memiliki anggota sebanyak 196 negara. Ini menjadi salah satu bukti dari pesatnya pertumbuhan olahraga bulu tangkis di dunia.</p>
+</body>
+</html>
